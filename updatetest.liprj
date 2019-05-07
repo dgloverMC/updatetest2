@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="sq" xml:lang="sq" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="10" flattenSnippets="false" SelectedTarget="" SourceControlDatabaseRoot="C:\Users\dglover\Documents\My Translated Projects\updatetest.liprjf" SourceControlDatabase="C:\Users\dglover\Documents\My Translated Projects\updatetest.liprjf\.git" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="f50c1cbf-68a9-462c-9ae5-a69e302fa026">
+    <ProjectFile Source="Target/updatetest.flprj" Target="Target/updatetest.flprj" />
+</LingoProject>
